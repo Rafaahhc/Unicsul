@@ -1,2 +1,0 @@
-# Unicsul
-Atividades/Projetos UnicSul
